@@ -13,7 +13,7 @@
 ---
 
 ### 🔹 Top Languages
-[![Top Langs](https://github-readme-stats-jade-two-14.vercel.app/api/top-langs/?username=zijie-cai&layout=compact&theme=radical)](https://github.com/zijie-cai)
+![Top Langs](https://github-readme-stats-jade-two-14.vercel.app/api/top-langs/?username=zijie-cai&layout=pie&theme=radical)
 
 ---
 
@@ -22,6 +22,5 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zijie-cai&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-✨ *Thanks for visiting my profile!*
+✨ *Thanks for visiting my profile!*  
+![Visitor Count](https://komarev.com/ghpvc/?username=zijie-cai&color=blue&style=flat)
