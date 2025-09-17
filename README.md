@@ -18,7 +18,7 @@
 ---
 
 ### 🔹 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=zijie-cai&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zijie-cai)](https://git.io/streak-stats)
 
 ---
 
