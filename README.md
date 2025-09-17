@@ -1,9 +1,6 @@
 <!-- Hero -->
 <h1 align="center">👋 Hey, I’m <span style="background: linear-gradient(90deg, #00f5d4, #ff0054); -webkit-background-clip: text; color: transparent;">Zijie Cai</span></h1>
 <h3 align="center">AI Engineer • Researcher • Creator</h3>
-<p align="center">
-  🎓 M.S. CS @ UMD • 🤖 Multimodal • ⚡ Efficient Transformers • 🌊 Imaging  
-</p>
 
 ---
 <!-- Stats (Table Layout) -->
@@ -21,18 +18,7 @@
   </tr>
 </table>
 
----
 
-<!-- Projects -->
-<h2 align="center">🚀 Projects</h2>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AItinerary-Travel%20Copilot-ff0054?style=flat-square&logo=react"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Car%20Logger-Parking%20Tracker-00f5d4?style=flat-square&logo=firebase"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Voice%20Drawing-Canvas%20Fun-ffbd39?style=flat-square&logo=javascript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Agents%20Arena-Multiagent%20Sandbox-79c6ff?style=flat-square&logo=python"></a>
-</p>
-
----
 
 <!-- Stack -->
 <h2 align="center">🛠 Tech Stack</h2>
@@ -45,8 +31,8 @@
 <!-- Connect -->
 <h2 align="center">🌐 Connect</h2>
 <p align="center">
-  <a href="https://zijiecai.github.io"><img src="https://img.shields.io/badge/Portfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/zijie-cai"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="http://zijiecai.com"><img src="https://img.shields.io/badge/Portfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/zai28"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/zijie-cai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
