@@ -1,14 +1,8 @@
 <p align="center">
   <!-- Hero Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:E76F51,50:A68A79,100:00B4A0&text=✨+Zǐjié+Cài+✨&fontColor=F5F0E6&fontAlign=50&fontAlignY=35&fontSize=44&animation=twinkling&desc=AI+Engineer+•+Researcher+•+Creator&descAlign=50&descAlignY=55&descSize=21&descColor=F5F0E6" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zijie-cai&color=00B4A0&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- Left Animated Icon -->
+<br>
+   <!-- Left Animated Icon -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlqeG9hNDRzaWM5MTRobHF5YW42ajh0aGQxcXI3ZzJpdHAzeGpndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px" />
 
   <!-- Typing Animation -->
@@ -16,7 +10,9 @@
 
   <!-- Right Animated Icon -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhlOWp2bXJscWY2a3E0bTJhNGFwaG0zY21ubnRoYzh2cmptdGY3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="60px" />
+  
 </p>
+
 
 <p align="center">
   <!-- Social Links -->
