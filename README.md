@@ -4,7 +4,7 @@
 <br>
 
    <!-- Left Animated Icon -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlqeG9hNDRzaWM5MTRobHF5YW42ajh0aGQxcXI3ZzJpdHAzeGpndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="70px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlqeG9hNDRzaWM5MTRobHF5YW42ajh0aGQxcXI3ZzJpdHAzeGpndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px" />
 
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B4A0&center=true&vCenter=true&width=500&lines=Building+AI+things+that+matter;Always+learning+%26+creating;Turning+ideas+into+reality" alt="Typing SVG" />
