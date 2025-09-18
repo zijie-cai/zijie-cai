@@ -21,11 +21,11 @@
 </p>
 
 
-<p align="">
+<p align="center">
   <!-- Stats row -->
-  <img height="125" src="https://github-readme-stats-jade-two-14.vercel.app/api?username=zijie-cai&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=1B1A17&title_color=00B4A0&icon_color=E76F51&text_color=F5F0E6" />
-  <img height="125" src="https://github-readme-stats-jade-two-14.vercel.app/api/top-langs/?username=zijie-cai&layout=compact&hide_border=true&border_radius=12&bg_color=1B1A17&title_color=A68A79&text_color=F5F0E6" />
-  <img height="125" src="https://github-readme-streak-stats-dusky-six.vercel.app?user=zijie-cai&hide_border=true&border_radius=12&background=1B1A17&ring=00B4A0&fire=E76F51&currStreakLabel=00B4A0&currStreakNum=F5F0E6&sideNums=F5F0E6&sideLabels=A68A79&dates=F5F0E6" />
+  <img height="120" src="https://github-readme-stats-jade-two-14.vercel.app/api?username=zijie-cai&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=1B1A17&title_color=00B4A0&icon_color=E76F51&text_color=F5F0E6" />
+  <img height="120" src="https://github-readme-stats-jade-two-14.vercel.app/api/top-langs/?username=zijie-cai&layout=compact&hide_border=true&border_radius=12&bg_color=1B1A17&title_color=A68A79&text_color=F5F0E6" />
+  <img height="120" src="https://github-readme-streak-stats-dusky-six.vercel.app?user=zijie-cai&hide_border=true&border_radius=12&background=1B1A17&ring=00B4A0&fire=E76F51&currStreakLabel=00B4A0&currStreakNum=F5F0E6&sideNums=F5F0E6&sideLabels=A68A79&dates=F5F0E6" />
 </p>
 
 <p align="center">
