@@ -21,7 +21,7 @@
 </p>
 
 
-<p align="center">
+<p align="">
   <!-- Stats row -->
   <img height="125" src="https://github-readme-stats-jade-two-14.vercel.app/api?username=zijie-cai&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=1B1A17&title_color=00B4A0&icon_color=E76F51&text_color=F5F0E6" />
   <img height="125" src="https://github-readme-stats-jade-two-14.vercel.app/api/top-langs/?username=zijie-cai&layout=compact&hide_border=true&border_radius=12&bg_color=1B1A17&title_color=A68A79&text_color=F5F0E6" />
