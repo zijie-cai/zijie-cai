@@ -2,6 +2,7 @@
   <!-- Hero Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:E76F51,50:A68A79,100:00B4A0&text=✨+Zǐjié+Cài+✨&fontColor=F5F0E6&fontAlign=50&fontAlignY=35&fontSize=44&animation=twinkling&desc=AI+Engineer+•+Researcher+•+Creator&descAlign=50&descAlignY=55&descSize=21&descColor=F5F0E6" />
 <br>
+
    <!-- Left Animated Icon -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlqeG9hNDRzaWM5MTRobHF5YW42ajh0aGQxcXI3ZzJpdHAzeGpndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px" />
 
