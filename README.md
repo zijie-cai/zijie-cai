@@ -4,13 +4,22 @@
 </p>
 
 <p align="center">
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B4A0&center=true&vCenter=true&width=500&lines=Building+AI+things+that+matter;Always+learning+%26+creating;Turning+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=zijie-cai&color=00B4A0&style=flat-square" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <!-- Left Animated Icon -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlqeG9hNDRzaWM5MTRobHF5YW42ajh0aGQxcXI3ZzJpdHAzeGpndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="60px" />
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B4A0&center=true&vCenter=true&width=500&lines=Building+AI+things+that+matter;Always+learning+%26+creating;Turning+ideas+into+reality" alt="Typing SVG" />
+
+  <!-- Right Animated Icon -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhlOWp2bXJscWY2a3E0bTJhNGFwaG0zY21ubnRoYzh2cmptdGY3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="60px" />
+</p>
 
 <p align="center">
-  <!-- Links -->
+  <!-- Social Links -->
   <a href="http://zijiecai.com"><img src="https://img.shields.io/badge/Portfolio-00B4A0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/zai28"><img src="https://img.shields.io/badge/LinkedIn-E76F51?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/zijie-cai"><img src="https://img.shields.io/badge/GitHub-A68A79?style=for-the-badge&logo=github&logoColor=white" /></a>
