@@ -18,7 +18,7 @@
 
 ---
 
-## 🚧 Current Project
+## 🚧 Current Projects
 
 📱 **[Super Decoder Console (iOS App)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
 
