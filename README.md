@@ -24,6 +24,13 @@
 
 ---
 
+## 🚧 Current Projects
+
+📱 **Super Decoder Console (iOS App)**  
+A polished iOS puzzle game inspired by the Super Decoder console, focused on clean UX, performance, and production-ready SwiftUI design.  
+https://apps.apple.com/us/app/super-decoder-console/id6757619432
+
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,react,nodejs,typescript,html,css,aws,gcp,mongodb,postgresql,docker,firebase,git,linux&theme=dark" />
@@ -34,9 +41,6 @@
   <!-- Stats row -->
   <img height="123" src="https://github-readme-stats-jade-two-14.vercel.app/api?username=zijie-cai&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=1B1A17&title_color=00B4A0&icon_color=E76F51&text_color=F5F0E6" />
   <img height="123" src="https://github-readme-stats-jade-two-14.vercel.app/api/top-langs/?username=zijie-cai&layout=compact&hide_border=true&border_radius=12&bg_color=1B1A17&title_color=A68A79&text_color=F5F0E6" />
-  <!--
-<img height="123" src="https://github-readme-streak-stats-dusky-six.vercel.app?user=zijie-cai&hide_border=true&border_radius=12&background=1B1A17&ring=00B4A0&fire=E76F51&currStreakLabel=00B4A0&currStreakNum=F5F0E6&sideNums=F5F0E6&sideLabels=A68A79&dates=F5F0E6" />
--->
 </p>
 
 
@@ -44,4 +48,3 @@
   <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00B4A0,50:A68A79,100:E76F51" />
 </p>
-
