@@ -20,7 +20,7 @@
 
 ## 🚧 Current Project
 
-📱 **[Super Decoder Console (iOS App)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A polished SwiftUI puzzle game focused on clean UX, performance, and production-ready design.
+📱 **[Super Decoder Console (iOS App)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
 
 ---
 
