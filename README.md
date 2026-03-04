@@ -20,7 +20,7 @@
 
 ## 🚧 Current Projects
 
-🔊 **[OpenCLAN](https://zijie-cai.github.io/openclan/)** — A modern AI-assisted platform for generating and analyzing CHAT (.cha) transcripts for speech-language research.
+🔊 **[OpenCLAN](https://zijie-cai.github.io/openclan/)** — AI-assisted platform for generating and analyzing CHAT (.cha) transcripts for speech-language research.
 
 📱 **[Super Decoder Console (iOS App)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
 
