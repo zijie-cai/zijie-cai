@@ -20,6 +20,8 @@
 
 ## 🚧 Current Projects
 
+🧠 **OpenCLAN** — A modern reimagining of the classic CLAN linguistic analysis toolkit, featuring a redesigned interface, interactive transcript editing, and optional AI-assisted analysis for speech-language research.
+
 📱 **[Super Decoder Console (iOS App)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
 
 ---
