@@ -24,6 +24,8 @@
 
 🗣️ **[OpenCLAN](https://zijie-cai.github.io/openclan/)** — An AI-assisted platform for generating and analyzing CHAT (.cha) transcripts. 
 
+💰 **[PriceSense](https://github.com/zijie-cai/pricesense)** — A quick interactive quiz to see how well you actually know what things cost.
+
 📱 **[Super Decoder Console (iOS App)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
 
 ---
