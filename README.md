@@ -20,7 +20,7 @@
 
 ## 🚧 Current Projects
 
-📝 **[JobFilter AI](https://github.com/zijie-cai/jobfilter-ai)** — An AI-powered Chrome extension for analyzing LinkedIn job posts for visa sponsorship and eligibility signals.
+📝 **[JobFilter AI](https://github.com/zijie-cai/jobfilter-ai)** — An AI-powered Chrome extension for screening LinkedIn job posts.
 
 🗣️ **[OpenCLAN](https://zijie-cai.github.io/openclan/)** — An AI-assisted platform for generating and analyzing CHAT (.cha) transcripts. 
 
