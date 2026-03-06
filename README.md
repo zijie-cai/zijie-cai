@@ -28,9 +28,9 @@
 
 ⏳ **[Promise](https://promise-759814669522.us-west1.run.app/)** — A focused task app that connects to Canvas and helps you finish assignments early.
 
-📱 **[Super Decoder Console (Flutter)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
+📱 **[Super Decoder Console](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
 
-🦮 **[PupCare (Flutter)](https://mypupcare.com/)** — A dog wellness journal that tracks walks, routines, and daily activity for your pup.
+🦮 **[PupCare](https://mypupcare.com/)** — A dog wellness journal that tracks walks, routines, and daily activity for your pup.
 
 ---
 
