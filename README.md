@@ -20,6 +20,8 @@
 
 ## 🚧 Current Projects
 
+📝 **[JobFilter AI](https://github.com/zijie-cai/jobfilter-ai)** — An AI-powered Chrome extension for analyzing LinkedIn job posts for visa sponsorship and eligibility signals.
+
 🗣️ **[OpenCLAN](https://zijie-cai.github.io/openclan/)** — An AI-assisted platform for generating and analyzing CHAT (.cha) transcripts. 
 
 📱 **[Super Decoder Console (iOS App)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
