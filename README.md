@@ -20,7 +20,7 @@
 
 ## 🚧 Current Projects
 
-🧠 **[Braindump](https://zai28.github.io/braindump/)** — A simple sticky-note board for jotting down ideas and keeping them organized.
+🧠 **[Braindump](https://zijie-cai.github.io/braindump/)** — A simple sticky-note board for jotting down ideas and keeping them organized.
 
 📝 **[JobFilter AI](https://github.com/zijie-cai/jobfilter-ai)** — An AI-powered Chrome extension for screening LinkedIn job posts.
 
