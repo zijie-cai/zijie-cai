@@ -26,6 +26,8 @@
 
 💰 **[PriceSense](https://price-sense-696894938827.us-west1.run.app/)** — A quick interactive quiz that tests how well you know what things actually cost.
 
+⏳ **[Promise](https://promise-759814669522.us-west1.run.app/)** — A focused task app that connects to Canvas and helps you finish assignments early.
+
 📱 **[Super Decoder Console (iOS App)](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
 
 ---
