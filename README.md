@@ -20,11 +20,13 @@
 
 ## 🚧 Current Projects
 
+🗣️ **[Local Voice Clone API](https://github.com/zijie-cai/local-voice-clone-api)** — A local XTTS voice cloning server for apps and AI agents.
+
 🧠 **[Braindump](https://zijie-cai.github.io/braindump/)** — A minimalistic sticky-note board for jotting down ideas and keeping them organized.
 
 📝 **[JobFilter AI](https://github.com/zijie-cai/jobfilter-ai)** — An AI-powered Chrome extension for screening LinkedIn job posts.
 
-🗣️ **[OpenCLAN](https://zijie-cai.github.io/openclan/)** — An AI-assisted platform for generating and analyzing CHAT (.cha) transcripts. 
+💬 **[OpenCLAN](https://zijie-cai.github.io/openclan/)** — An AI-assisted platform for generating and analyzing CHAT (.cha) transcripts. 
 
 💰 **[PriceSense](https://price-sense-696894938827.us-west1.run.app/)** — A quick interactive quiz that tests how well you know what things actually cost.
 
