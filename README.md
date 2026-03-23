@@ -20,7 +20,7 @@
 
 ## 🚧 Current Projects
 
-✨ **[PromptBar](https://github.com/zijie-cai/PromptBar)** — A macOS menu bar utility for easy storing and reusing AI prompt snippets.
+✨ **[PromptBar](https://github.com/zijie-cai/PromptBar)** — A macOS menu bar utility for easily storing and reusing AI prompt snippets.
 
 \>_ **[CmdEdit](https://github.com/zijie-cai/CmdEdit)** — A native terminal overlay for editing shell commands with history and save-back.
 
