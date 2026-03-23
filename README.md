@@ -38,7 +38,7 @@
 
 🧩 **[Super Decoder Console](https://apps.apple.com/us/app/super-decoder-console/id6757619432)** — A modern codebreaking game built on pure deduction.
 
-🦮 **[PupCare](https://mypupcare.com/)** — A dog wellness journal that tracks walks, routines, and daily activity for your pup.
+🦮 **[PupCare](https://mypupcare.com/)** — A wellness journal that tracks walks, routines, and daily activity for your pup.
 
 ---
 
