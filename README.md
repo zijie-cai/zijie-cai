@@ -20,9 +20,9 @@
 
 ## 🚧 Current Projects
 
-✨ **[PromptBar](https://github.com/zijie-cai/PromptBar)** — A macOS menu bar utility for storing and reusing AI prompt snippets.
+✨ **[PromptBar](https://zijie-cai.github.io/PromptBar/)** — A macOS menu bar utility for storing and reusing AI prompt snippets.
 
-\>_ **[CmdEdit](https://github.com/zijie-cai/CmdEdit)** — A native terminal overlay for editing shell commands with history and save-back.
+\>_ **[CmdEdit](https://zijie-cai.github.io/CmdEdit/)** — A native terminal overlay for editing shell commands with history and save-back.
 
 🗣️ **[Local Voice Clone API](https://github.com/zijie-cai/local-voice-clone-api)** — A local XTTS voice cloning server for apps and AI agents.
 
