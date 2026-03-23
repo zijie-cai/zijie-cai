@@ -20,7 +20,7 @@
 
 ## 🚧 Current Projects
 
-🖥️ **[CmdEdit](https://github.com/zijie-cai/CmdEdit)** — A native macOS overlay for editing shell commands with history and save-back.
+>_ **[CmdEdit](https://github.com/zijie-cai/CmdEdit)** — A native macOS overlay for editing shell commands with history and save-back.
 
 🗣️ **[Local Voice Clone API](https://github.com/zijie-cai/local-voice-clone-api)** — A local XTTS voice cloning server for apps and AI agents.
 
