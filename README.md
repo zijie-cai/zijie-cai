@@ -20,7 +20,7 @@
 
 ## 🚧 Current Projects
 
-🏴‍☠️ **[Media Pirate](https://media-pirate-landing-page-696894938827.us-west1.run.app/)** — A native Apple TV app and web tool for finding and playing M3U8 streams.
+🏴‍☠️ **[Media Pirate](https://media-pirate-landing-page-696894938827.us-west1.run.app/)** — An Apple TV app and companion web tool for finding and playing M3U8 streams.
 
 🪄 **[PromptBar](https://zijie-cai.github.io/PromptBar/)** — A macOS menu bar utility for storing and reusing AI prompt snippets.
 
