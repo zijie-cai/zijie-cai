@@ -20,7 +20,7 @@
 
 ## 🚧 Current Projects
 
-🐶 **[Build-A-Bowl](https://build-a-bowl-68cdd.web.app/)** — A dog meal planner for building balanced bowls with real-food ingredients and nutrition tracking.
+🐶 **[Build-A-Bowl](https://build-a-bowl-68cdd.web.app/)** — A dog meal planner for building nutrition-balanced bowls with real-food ingredients.
 
 🏴‍☠️ **[Media Pirate](https://media-pirate-landing-page-696894938827.us-west1.run.app/)** — An Apple TV app and companion web tool for finding and playing M3U8 streams.
 
