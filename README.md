@@ -20,7 +20,7 @@
 
 ## 🚧 Current Projects
 
-⏱️ **[FocusBar](https://focusbar-web-633av4yy5q-ue.a.run.app)** — A native macOS menu bar focus timer for quickly starting tasks and staying on track.
+⏱️ **[FocusBar](https://focusbar-web-633av4yy5q-ue.a.run.app)** — A Pomodoro timer at the top of your screen for quickly starting tasks and staying on track.
 
 🐶 **[Build-A-Bowl](https://build-a-bowl-68cdd.web.app/)** — A dog meal planner for building nutrition-balanced bowls with real-food ingredients.
 
