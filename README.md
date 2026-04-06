@@ -20,6 +20,8 @@
 
 ## 🚧 Current Projects
 
+⏱️ **[FocusBar](https://focusbar-web-633av4yy5q-ue.a.run.app)** — A native macOS focus timer that lives in your menu bar for quickly starting tasks and staying on track.
+
 🐶 **[Build-A-Bowl](https://build-a-bowl-68cdd.web.app/)** — A dog meal planner for building nutrition-balanced bowls with real-food ingredients.
 
 🏴‍☠️ **[Media Pirate](https://media-pirate-landing-page-696894938827.us-west1.run.app/)** — An Apple TV app and companion web tool for finding and playing M3U8 streams.
